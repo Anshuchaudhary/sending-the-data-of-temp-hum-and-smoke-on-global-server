@@ -1,0 +1,1 @@
+# sending-the-data-of-temp-hum-and-smoke-on-global-server
